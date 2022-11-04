@@ -24,6 +24,10 @@ public class Exe3_NumerosAleatorios {
         for (int numero : numerosAleatorios) {
         System.out.print(numero+1 + " ");
     }
+        System.out.print("\nAntecessores Numeros Aleatórios: ");
+        for (int numero : numerosAleatorios) {
+            System.out.print(numero-1 + " ");
+        }
 
     }
 }
