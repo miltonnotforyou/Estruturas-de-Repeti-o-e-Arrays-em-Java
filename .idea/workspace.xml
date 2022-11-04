@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc455e2a-e558-4b05-a116-9d7ddc105622" name="Changes" comment="Exercicio 1 Arrays">
-      <change afterPath="$PROJECT_DIR$/src/Exe2_Consoantes.java" afterDir="false" />
+    <list default="true" id="dc455e2a-e558-4b05-a116-9d7ddc105622" name="Changes" comment="Exercicio 2 Arrays">
+      <change afterPath="$PROJECT_DIR$/src/Exe3_NumerosAleatorios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exe2_Consoantes">
-    <configuration name="Ex4_ParEImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_ParEImpar" />
-      <module name="Arrays e repeticao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exe3_NumerosAleatorios">
     <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5_Tabuada" />
       <module name="Arrays e repeticao" />
@@ -71,13 +64,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exe3_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exe3_NumerosAleatorios" />
+      <module name="Arrays e repeticao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exe3_NumerosAleatorios" />
         <item itemvalue="Application.Exe2_Consoantes" />
         <item itemvalue="Application.Exe1_OrdemInversa" />
         <item itemvalue="Application.Ex6_Fatorial" />
         <item itemvalue="Application.Ex5_Tabuada" />
-        <item itemvalue="Application.Ex4_ParEImpar" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667573651347</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercicio 2 Arrays">
+      <created>1667576241630</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667576241630</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +174,7 @@
     <MESSAGE value="Exercicio 4" />
     <MESSAGE value="Exercicio 6" />
     <MESSAGE value="Exercicio 1 Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 1 Arrays" />
+    <MESSAGE value="Exercicio 2 Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2 Arrays" />
   </component>
 </project>
