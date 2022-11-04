@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc455e2a-e558-4b05-a116-9d7ddc105622" name="Changes" comment="Exercicio 1">
-      <change afterPath="$PROJECT_DIR$/src/Ex2_Nota.java" afterDir="false" />
+    <list default="true" id="dc455e2a-e558-4b05-a116-9d7ddc105622" name="Changes" comment="Exercicio 2">
+      <change afterPath="$PROJECT_DIR$/src/Ex3_MaiorEMedia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex2_Nota">
+  <component name="RunManager" selected="Application.Ex3_MaiorEMedia">
     <configuration name="Ex1_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1_NomeEIdade" />
       <module name="Arrays e repeticao" />
@@ -50,6 +50,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3_MaiorEMedia" />
+      <module name="Arrays e repeticao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Arrays e repeticao" />
@@ -59,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3_MaiorEMedia" />
         <item itemvalue="Application.Ex2_Nota" />
         <item itemvalue="Application.Ex1_NomeEIdade" />
         <item itemvalue="Application.Main" />
@@ -81,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667565742728</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercicio 2">
+      <created>1667566425534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667566425534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicio 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 1" />
+    <MESSAGE value="Exercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2" />
   </component>
 </project>
