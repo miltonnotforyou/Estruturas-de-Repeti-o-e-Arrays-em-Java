@@ -20,6 +20,8 @@ dados do mesmo tipo.
 
 ## Links Úteis
 
+[Exercícios loops](https://github.com/miltonnotforyou/Estruturas-de-Repeti-o-e-Arrays-em-Java/tree/master/src)
+
 [Github da Porfessora do curso](https://github.com/cami-la/loops-e-arrays)
 
 [Slides do Curso](https://github.com/miltonnotforyou/Estruturas-de-Repeti-o-e-Arrays-em-Java/blob/4a53701cfd1c7896504f47718bb85be7a4b0a5a2/Slides%20-%20Estrutura%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java.pdf)
