@@ -20,7 +20,7 @@ dados do mesmo tipo.
 
 ## Links Úteis
 
-[Exercícios loops](https://github.com/miltonnotforyou/Estruturas-de-Repeti-o-e-Arrays-em-Java/tree/master/src)
+[Exercícios](https://github.com/miltonnotforyou/Estruturas-de-Repeti-o-e-Arrays-em-Java/tree/master/src)
 
 [Github da Porfessora do curso](https://github.com/cami-la/loops-e-arrays)
 
